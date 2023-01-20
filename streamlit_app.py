@@ -28,7 +28,7 @@ def calories_prediction(input_data):
 
 st.title('Calories Burnt Prediction using AI')
 st.sidebar.image('usrImage/hmrlogo.png')
-st.sidebar.write('# Industrial Training Project')
+st.sidebar.write('# Summer Training Project')
 st.sidebar.write('# Shivam Singh\n # 07313302720\n # CSE-5A\n')
 gender = st.radio(
         "What is your gender",
