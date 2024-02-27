@@ -1,2 +1,2 @@
-# Industrial Training
+# Calories Predictor
 
