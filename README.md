@@ -30,7 +30,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/your-username/calories-burnt-prediction.git
 cd calories-burnt-prediction
-streamlit run streamlit.py
+streamlit run streamlit_app.py
 ```
 In the web interface, select your gender and provide the following information:
 
